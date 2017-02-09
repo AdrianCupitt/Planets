@@ -1,5 +1,5 @@
 ### Big Heading
-##LIttler Heading
+##Littler Heading
 # Even Smaller
 #teeny weeny
 
